@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
- * RCU segmented callback lists, function definitions
+ * RCU segmented  callback lists, function definitions
  *
  * Copyright IBM Corporation, 2017
  *
